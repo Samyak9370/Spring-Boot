@@ -1,1 +1,1 @@
-This my Spring Boot Project 
+A RESTful Employee Management System built using Spring Boot, designed to manage employee data efficiently. This project serves as the backend service for operations like employee creation, update, deletion, and listin
