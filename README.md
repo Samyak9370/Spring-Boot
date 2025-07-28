@@ -11,7 +11,7 @@ FrontEnd Page:-
 This is the main user interface where users can view, add, and manage employees.
 
 <img width="1823" height="850" alt="Screenshot 2025-07-26 132411" src="https://github.com/user-attachments/assets/60de95ff-d796-4198-9b48-6c3e61ef2b1a" />
-
+This is for the Delete Operation:-
 <img width="1890" height="781" alt="Screenshot 2025-07-26 132606" src="https://github.com/user-attachments/assets/ffe2caff-494b-4999-88d9-ab06c700823e" />
 
 
